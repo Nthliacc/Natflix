@@ -1,11 +1,34 @@
 {
     "categorias": [
         {
-            "titulo": "Sia - Cheap Thrills ",
+            "titulo": "Rodrigo Alarcon",
+            "link": "https://www.youtube.com/channel/UCEDuBnvKS2kjX0VHtxr-epQ",
+            "cor": "#6bd1ff",
+            "link_extra": {
+                "text": "Sinusite",
+                "url": "https://www.youtube.com/watch?v=2vjPBrBU-TM"
+            },
+            "videos": [
+                {
+                    "titulo": "Nina Simone - Feeling Good",
+                    "url": "https://www.youtube.com/watch?v=z2lSewJ5sF4"
+                },
+                {
+                    "titulo": "Apesar de querer",
+                    "url": "https://www.youtube.com/watch?v=L59QQeTZuP4"
+                },
+                {
+                    "titulo": "O lado vazio do sofá",
+                    "url": "https://www.youtube.com/watch?v=CMPfnnXzU0U"
+                }
+            ]
+        },
+        {
+            "titulo": "Sia",
             "link": "https://www.youtube.com/watch?v=31crA53Dgu0",
             "cor": "#6bd1ff",
             "link_extra": {
-                "text": "Sia - Chandelier",
+                "text": "Sia",
                 "url": "https://www.youtube.com/watch?v=2vjPBrBU-TM"
             },
             "videos": [
@@ -24,7 +47,7 @@
             ]
         },
         {
-            "titulo": "Billie Eilish - Xanny",
+            "titulo": "Billie Eilish",
             "link": "https://www.youtube.com/watch?v=LZyybvVx-js",
             "cor": "#6bd1ff",
             "link_extra": {
